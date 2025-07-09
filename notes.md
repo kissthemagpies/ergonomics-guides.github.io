@@ -51,14 +51,20 @@ I have used the various Vim bindings for browsers, but am not very happy with th
 
 I use OSX. Pretty much I try to drive with the keyboard as much as possible. Not always possible. Might switch back to Linux/xmonad at some point, but fear short-term lost productivity.
 
-
 ## Future sections
 
 ### Rules
+
    - No couch computing!!!
    - Breaks, exercise, stretching
 
 ### Resource links
+
+- [KMonad](https://github.com/kmonad/kmonad) is software that can let you modify your keyboard's behavior. Very useful to set up things like home row mods, especially on laptops.
+
+- [What are home row mods ?](https://precondition.github.io/home-row-mods)
+
+- [Workrave](https://workrave.org/), software that reminds you to take regular breaks and prevent RSI
 
 ## Feedback
 
